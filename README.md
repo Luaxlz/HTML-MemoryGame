@@ -1,7 +1,7 @@
 # Jogo da memória em JavaScript
 
 Este é um pequeno e simples projeto desenvolvido durante um bootcamp do YouTube™ para conclusão de estudos em HTML, CSS e JavaScript.<br><br>
-[Você pode conferir a pagina do game aqui](https://luaxlz.github.io/Jogo-da-Memoria/)
+[Você pode conferir a pagina do game aqui](https://luaxlz.github.io/HTML-MemoryGame/)
 
 ## Proposta:
 Criar um jogo da memória totalmente funcional com score.
